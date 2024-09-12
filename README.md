@@ -1,4 +1,4 @@
-Hi! 👋 Akhil here, thrilled to be part of this journey! 🚀
+# Hi! 👋 Akhil here, thrilled to be part of this journey! 🚀
 
 - 🧑‍💻 I love solving problems and creating effective solutions
 - 📫 Reach me at **akhilreddymodugu13@gmail.com**
