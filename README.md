@@ -4,7 +4,7 @@
 - 📫 Reach me at **akhilreddymodugu13@gmail.com**
 
 
-## 🌐 Socials:
+## 🌐 Profiles:
 <p align="left">
 <a href="https://linkedin.com/in/akhil-reddy-modugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-reddy-modugu" height="30" width="40" /></a>
 <a href="https://instagram.com/akhilreddy.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhilreddy.__" height="30" width="40" /></a>
